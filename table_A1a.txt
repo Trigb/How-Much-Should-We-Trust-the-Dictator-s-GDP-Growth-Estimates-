@@ -1,0 +1,30 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	(29)	(30)	(31)	(32)	(33)	(34)	(35)	(36)	(37)	(38)
+	fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213		fiw_avg9213	
+VARIABLES	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se
+																																						
+fiw_avg9213																																						
+leg	-5.056***	[1.306]																																				
+legcham1			0.684**	[0.320]																																		
+elecleg					-4.663***	[0.730]																																
+elecexec							0.125	[0.333]																														
+suffreg									-2.296***	[0.315]																												
+banned											1.834***	[0.358]																										
+banall													2.673***	[0.401]																								
+stateparty															3.330***	[0.294]																						
+execveto																	-0.629**	[0.317]																				
+legveto																			-0.869**	[0.409]																		
+removeleg																					-0.223	[0.344]																
+removeexec																							-1.133**	[0.454]														
+execforce																									0.429	[0.457]												
+exectax																											1.944***	[0.678]										
+execbudget																													-1.672*	[0.853]								
+new_const																															1.308***	[0.279]						
+court																																	-1.301**	[0.551]				
+federal																																			-0.961***	[0.338]		
+region_auto																																					-0.816**	[0.343]
+																																						
+Observations	160		160		160		160		158		159		160		160		160		159		160		159		160		159		160		158		160		160		159	
+R-squared	0.051		0.028		0.152		0.001		0.213		0.144		0.081		0.126		0.024		0.032		0.003		0.043		0.006		0.034		0.026		0.125		0.054		0.048		0.034	
+Mean	0.980		0.560		0.950		0.590		0.610		0.300		0.0500		0.0500		0.560		0.770		0.630		0.760		0.770		0.0600		0.950		0.560		0.830		0.270		0.500	
+Robust standard errors in brackets																																						
+*** p<0.01, ** p<0.05, * p<0.1																																						

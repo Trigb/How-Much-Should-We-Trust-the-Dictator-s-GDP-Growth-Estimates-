@@ -1,0 +1,33 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	(29)	(30)	(31)	(32)	(33)	(34)	(35)	(36)	(37)	(38)
+	fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw		fiw	
+VARIABLES	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se	coef	se
+																																						
+fiw																																						
+leg	-0.699***	[0.163]																																				
+legcham1			-0.132	[0.164]																																		
+elecleg					-0.245*	[0.142]																																
+elecexec							-0.687***	[0.214]																														
+suffreg									-0.0621	[0.0776]																												
+banned											0.131	[0.104]																										
+banall													0.436	[0.352]																								
+stateparty															0.186	[0.293]																						
+execveto																	0.124	[0.111]																				
+legveto																			0.189	[0.146]																		
+removeleg																					0.0424	[0.139]																
+removeexec																							-0.0326	[0.109]														
+execforce																									0.0809	[0.0943]												
+exectax																											0.0987	[0.168]										
+execbudget																													-0.251	[0.192]								
+new_const																															0.133	[0.145]						
+court																																	-0.0465	[0.180]				
+federal																																			0.144	[0.115]		
+region_auto																																					-0.0819	[0.0949]
+																																						
+Observations	3,144		3,079		3,087		3,124		3,013		3,067		3,103		3,023		2,966		2,916		2,977		2,972		2,905		2,911		3,003		3,000		3,057		3,098		3,009	
+R-squared	0.0116		0.00258		0.00416		0.0432		0.00115		0.00348		0.00521		0.00104		0.00193		0.00399		0.000246		0.000245		0.00124		0.000692		0.00310		0.00198		0.000219		0.00123		0.00167	
+Country FE	x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x	
+Year FE	x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x		x	
+Countries	156		155		155		156		154		156		155		156		155		154		155		154		154		154		155		153		155		156		155	
+Mean	0.990		0.560		0.950		0.600		0.640		0.300		0.0500		0.0500		0.560		0.780		0.640		0.760		0.780		0.0500		0.950		0.450		0.850		0.270		0.510	
+Robust standard errors in brackets																																						
+*** p<0.01, ** p<0.05, * p<0.1																																						
