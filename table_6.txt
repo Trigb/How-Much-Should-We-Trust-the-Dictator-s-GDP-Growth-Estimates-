@@ -1,0 +1,45 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	lngdp14	lngdp14	lngdp14	lngdp14	lngdp14
+					
+sdds_met		0.048*	0.041*	0.042*	0.002
+		[0.024]	[0.024]	[0.025]	[0.028]
+fiw			-0.015	-0.025	-0.025
+			[0.025]	[0.027]	[0.026]
+fiw2			0.001	0.002	0.002
+			[0.005]	[0.004]	[0.004]
+sdds_ctry13_fiw				0.011	0.002
+				[0.018]	[0.018]
+sdds_met_fiw					0.020*
+					[0.011]
+lndn13	0.302***	0.299***	0.219***	0.223***	0.222***
+	[0.046]	[0.048]	[0.048]	[0.049]	[0.049]
+lndn13_fiw			0.021***	0.019***	0.019***
+			[0.006]	[0.007]	[0.007]
+lndn13_sdds_ctry13	-0.049	-0.046	-0.022	-0.037	-0.038
+	[0.041]	[0.039]	[0.036]	[0.043]	[0.043]
+lndn13_fiw_sdds_ctry13				0.007	-0.002
+				[0.010]	[0.012]
+lndn13_sdds_met		-0.036***	-0.028**	-0.027**	-0.020*
+		[0.012]	[0.012]	[0.011]	[0.011]
+lndn13_fiw_sdds_met					0.006
+					[0.011]
+					
+Observations	3,895	3,895	3,895	3,895	3,895
+R-squared	0.221	0.229	0.265	0.265	0.269
+Country FE	Yes	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	Yes	Yes	Yes
+Countries	184	184	184	184	184
+sigma_other				0.300	0.301
+sigma_other SE				[0.182]	[0.183]
+sigma_other 95 CI				[0.08 0.82]	[0.08 0.81]
+sigma_SDDS_ctry				0.486	0.327
+sigma_SDDS_ctry SE				[0.373]	[0.352]
+sigma_SDDS_ctry 95 CI				[0.11 1.54]	[-0.10 1.47]
+sigma_SDDS_post					0.489
+sigma_SDDS_post SE					[0.572]
+sigma_SDDS_post 95 CI					[0.01 1.73]
+sigma			0.328		
+sigma SE			[0.168]		
+sigma 95 CI			[0.12 0.82]		
+Robust standard errors in brackets					
+*** p<0.01, ** p<0.05, * p<0.1					

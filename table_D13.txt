@@ -1,0 +1,24 @@
+	(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	lngdp14	lngdp14	lngdp14	lngdp14	lngdp14	lngdp14
+						
+lndn13	0.136***	0.191***	0.171***	0.221***	0.085*	0.117**
+	[0.049]	[0.053]	[0.048]	[0.049]	[0.045]	[0.046]
+lndn13_Dpfree_avg9213			0.155***	0.085		
+			[0.056]	[0.063]		
+lndn13_Dnfree_avg9213			0.197***	0.104*		
+			[0.053]	[0.062]		
+lndn13_x	0.053***	0.032**			0.055***	0.043***
+	[0.012]	[0.014]			[0.010]	[0.010]
+						
+Observations	3,895	3,892	3,895	3,892	3,736	3,733
+R-squared	0.270	0.226	0.259	0.220	0.281	0.241
+Country FE	Yes	Yes	Yes	Yes	Yes	Yes
+Year FE	Yes	No	Yes	Yes	Yes	No
+Subregion x Year FE	No	Yes	No	No	No	Yes
+Average	92-13	92-13	92-13	92-13	82-91	82-91
+sigma	1.316	0.572	1.151	0.473	2.255	1.293
+sigma SE	[20.623]	[0.447]	[0.686]	[0.375]	[29.636]	[3.046]
+sigma 95 CI	[0.46 4.90]	[0.09 2.86]	[0.43 3.44]	[0.02 1.90]	[0.61 23.32]	[0.43 14.19]
+Countries	184	184	184	184	175	175
+Robust standard errors in brackets						
+*** p<0.01, ** p<0.05, * p<0.1						
